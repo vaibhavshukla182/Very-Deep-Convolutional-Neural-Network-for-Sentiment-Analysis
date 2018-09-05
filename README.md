@@ -12,3 +12,6 @@ So basically they have tried to model their approach on the deep convolutional n
 
 ![](arc1.png)
 ![](arc2.png)
+
+
+I am further looking at increasing the depth of the model for better results.
