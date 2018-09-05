@@ -1,6 +1,6 @@
 # Very-Deep-Convolutional-Neural-Network-for-Sentiment-Analysis
 
-This repo contains the ipython notebooks implementing Very Deep Convolutional Neural Network for Text Analysis based on the research paper- https://arxiv.org/abs/1606.01781
+This repo contains the ipython notebook implementing Very Deep Convolutional Neural Network for Text Analysis based on the research paper- https://arxiv.org/abs/1606.01781
 
 # Why I implemented this research paper?
 
