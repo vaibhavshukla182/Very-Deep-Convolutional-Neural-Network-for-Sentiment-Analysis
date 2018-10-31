@@ -15,3 +15,4 @@ So basically they have tried to model their approach on the deep convolutional n
 
 
 I am further looking at increasing the depth of the model for better results.
+Any suggestions are most welcome.
